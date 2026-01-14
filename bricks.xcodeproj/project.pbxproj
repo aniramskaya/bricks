@@ -67,6 +67,7 @@
 		CC27C14F2A3887E600AF020E /* ParallelPriority.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParallelPriority.swift; sourceTree = "<group>"; };
 		CC27C1532A38880A00AF020E /* ParallelPriorityLoaderTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParallelPriorityLoaderTests.swift; sourceTree = "<group>"; };
 		CC4771462A28BAA2005AAE39 /* PaginatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaginatorTests.swift; sourceTree = "<group>"; };
+		CC56EACF2F17B3730044956B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CC5CB3C82A2E0C4B00DCE080 /* Paginator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Paginator.swift; sourceTree = "<group>"; };
 		CC5CB3CA2A2E108700DCE080 /* Paginator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Paginator.swift; sourceTree = "<group>"; };
 		CC7141782A2721A3005DBA5F /* Command.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Command.swift; sourceTree = "<group>"; };
@@ -140,6 +141,7 @@
 		CC86FB112A07A40300416227 = {
 			isa = PBXGroup;
 			children = (
+				CC56EACF2F17B3730044956B /* README.md */,
 				CC97021B2A417BA000918FC0 /* Bricks.podspec */,
 				CC7431D92A07B568004E0175 /* bricks.xctestplan */,
 				CC86FB1D2A07A40300416227 /* bricks */,

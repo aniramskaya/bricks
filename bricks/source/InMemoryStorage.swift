@@ -7,7 +7,7 @@
 
 import Foundation
 
-/// In-memory storage simply holds the data passed into `load` method
+/// In-memory storage simply holds the data passed into `save` method
 public final class InMemoryStorage<Stored>: SynchronousStorage {
     private var stored: Stored?
     public private(set) var timestamp: Date?
